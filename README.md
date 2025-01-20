@@ -9,4 +9,10 @@ A repository for charts, dashboards, etc. while preparation of Power BI PL-300
 
 ---
 
+<u><h3>Columns representation using DAX</h3></u>
+
+<img src= "https://github.com/user-attachments/assets/2d575ebf-7a14-4e61-a11c-77ba69079c45" alt="DAX Practice" width="600"/>
+
+---
+
 <h4>PS: Credits to respective owners of data for providing it on open source.</h4>
