@@ -29,7 +29,7 @@ A repository for charts, dashboards, etc. while preparation of Power BI PL-300
 
 <u><h3>Commonly used vizuals</h3></u>
 
-<img src= "https://github.com/user-attachments/assets/66673237-f421-48e9-a757-7cf6cee14bfa" alt="Commonly used vizuals" width="600"/>
+<img src= "https://github.com/user-attachments/assets/73339d40-0abc-4093-98d4-c40f220bfb54" alt="Commonly used vizuals" width="600"/>
 
 ---
 
