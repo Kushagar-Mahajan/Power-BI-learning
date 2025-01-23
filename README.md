@@ -15,9 +15,16 @@ A repository for charts, dashboards, etc. while preparation of Power BI PL-300
 
 ---
 
-<u><h3>Conditional Formatting</h3></u>
+<u><h3>Graphical Representation after conditional Formatting</h3></u>
 
-<img src= "https://github.com/user-attachments/assets/0d26ff8a-9803-4d56-bbdc-b86b6acf0f2f" alt="Conditional Formatting" width="600"/>
+<img src= "https://github.com/user-attachments/assets/0d26ff8a-9803-4d56-bbdc-b86b6acf0f2f" alt="Graphical Representation after conditional Formatting" width="600"/>
 
 ---
+
+<u><h3>Graphical Representation of Bins and List</h3></u>
+
+<img src= "https://github.com/user-attachments/assets/0294bc98-fcd4-4958-9ae2-82ed36eccb00" alt="Graphical Representation of Bins and List" width="600"/>
+
+---
+
 <h4>PS: Credits to respective owners of data for providing it on open source.</h4>
