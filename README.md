@@ -27,4 +27,10 @@ A repository for charts, dashboards, etc. while preparation of Power BI PL-300
 
 ---
 
+<u><h3>Commonly used vizuals</h3></u>
+
+<img src= "https://github.com/user-attachments/assets/66673237-f421-48e9-a757-7cf6cee14bfa" alt="Commonly used vizuals" width="600"/>
+
+---
+
 <h4>PS: Credits to respective owners of data for providing it on open source.</h4>
