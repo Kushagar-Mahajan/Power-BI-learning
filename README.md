@@ -33,4 +33,10 @@ A repository for charts, dashboards, etc. while preparation of Power BI PL-300
 
 ---
 
+<u><h3>Mini Project Dashboard (Created on data from Alex the Analyst Repo)</h3></u>
+
+<img src= "https://github.com/user-attachments/assets/4b8f7861-2073-4b9c-9f56-0bf780791a0c" alt="Mini Project Dashboard" width="600"/>
+
+---
+
 <h4>PS: Credits to respective owners of data for providing it on open source.</h4>
